@@ -1,2 +1,4 @@
-## ALL ABOUTR NODE JS
-# Simple servers
+# ALL ABOUT NODE JS
+## Simple servers
+
+A brief introduction to Nodejs and more.
